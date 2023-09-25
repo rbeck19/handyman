@@ -11,13 +11,10 @@
   }
 }
 
-
+/* ------ Nav Bar ------ */
 .headerContainer {
   background-color:aliceblue;
-
   padding: 10px 0;
-	height:30%;
-	font-family: 'PT Sans', sans-serif;
   font-size: 1.5rem;
 	display: flex;
 	justify-content: space-around;
@@ -32,6 +29,7 @@
 	margin-bottom: 5px;
 }
 
+/* ----- Title ----- */
 .titleContainer {
   background-color:bisque;
   text-align: center;
@@ -39,12 +37,27 @@
   padding: 20px 0 30px 0;
 }
 
+/* ----- About ----- */
 .aboutContainer {
   background-color: aqua;
   text-align: center;
 }
 
+/* ----- Work ----- */
+.workType {
+  background-color: burlywood;
+}
 
+/* ----- Footer ----- */
+.footerContainer {
+  background-color: gold;
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+
+}
 
 
 
