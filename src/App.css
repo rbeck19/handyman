@@ -47,6 +47,32 @@
 .workType {
   background-color: burlywood;
 }
+.imgContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.kitchenImg{
+  width:70%;
+  max-width: 500px;
+  height: 425px;
+}
+
+.sliderimg{
+  width:70%;
+  max-width: 500px;
+  height: 425px;
+}
+.carouselContainer {
+
+}
+.alice-carousel {
+  position: relative;
+  width: 100%;
+  margin: auto;
+  direction: ltr;
+  text-align: center;
+}
 
 /* ----- Footer ----- */
 .footerContainer {
