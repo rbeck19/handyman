@@ -14,7 +14,8 @@
 /* ------ Nav Bar ------ */
 .headerContainer {
   background-color:aliceblue;
-  padding: 10px 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
   font-size: 1.5rem;
 	display: flex;
 	justify-content: space-around;
@@ -27,6 +28,7 @@
   text-decoration: none;
 	padding: 10px;
 	margin-bottom: 5px;
+  cursor: pointer;
 }
 
 /* ----- Title ----- */
@@ -46,6 +48,8 @@
 /* ----- Work ----- */
 .workType {
   background-color: burlywood;
+  padding-top: 1px;
+  padding-bottom: 1px;
 }
 .imgContainer {
   display: flex;

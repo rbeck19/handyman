@@ -26,7 +26,7 @@ export default function WorkType() {
 
 
             <div className="workTypeContainer"> 
-                <div className="workTypeCard">
+                <div className="workTypeCard" id="Kitchen">
                     <h1>Kitchen Remodeling</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, non quod harum nam ad tempore dolor sapiente animi cupiditate praesentium nostrum numquam, incidunt molestiae</p>
                 </div>
